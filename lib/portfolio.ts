@@ -18,7 +18,6 @@ export const profile = {
   name: 'Mark Gonzalez',
   headline: 'Software developer from Dallas, Texas',
   bio: 'I build software for practical problems and help people understand the systems behind it. My experience spans production development, mobile applications, and technical teaching.',
-  github: 'https://github.com/Ohmarkg',
   email: null as string | null,
   portraitDesktop: null as string | null,
   portraitMobile: null as string | null,
