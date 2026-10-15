@@ -1,0 +1,8 @@
+{
+  "name": "mark-gonzalez-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {"dev": "next dev", "build": "next build", "start": "next start", "typecheck": "tsc --noEmit", "test": "node --test tests/*.test.mjs"},
+  "dependencies": {"next": "16.4.1", "react": "^19.2.0", "react-dom": "^19.2.0", "motion": "14.2.0", "lucide-react": "^0.577.0"},
+  "devDependencies": {"typescript": "^5.9.3", "@types/node": "^24.0.0", "@types/react": "^19.2.0", "@types/react-dom": "^19.2.0", "tailwindcss": "4.3.3", "@tailwindcss/postcss": "4.3.3"}
+}
